@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "author": "Harry",
+  "main": "server.js",
+  "scripts": {
+    "start": "set NODE_ENV=development && node server.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "body-parser": "*",
+    "consolidate": "*",
+    "cors": "^2.8.4",
+    "crypto-js": "^3.1.9-1",
+    "dust": "*",
+    "dustjs-helpers": "*",
+    "dustjs-linkedin": "*",
+    "express": "*",
+    "http2": "^3.3.7",
+    "jsonwebtoken": "^8.4.0",
+    "node-fetch": "^2.2.0",
+    "pagarme": "^3.8.0",
+    "pg": "*",
+    "socket.io": "^2.1.1"
+  },
+  "license": "MIT"
+}
