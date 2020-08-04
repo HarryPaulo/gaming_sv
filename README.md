@@ -1,4 +1,4 @@
-# Gamer application service
+# Gamer streaming application service
 
 This service was made to run gaminganywhere on the server and direct the stream to the client
 
