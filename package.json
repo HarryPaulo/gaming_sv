@@ -18,7 +18,7 @@
     "express": "*",
     "http2": "^3.3.7",
     "jsonwebtoken": "^8.4.0",
-    "node-fetch": "^2.2.0",
+    "node-fetch": "^2.6.7",
     "pagarme": "^3.8.0",
     "pg": "*",
     "socket.io": "^2.1.1"
