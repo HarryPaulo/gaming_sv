@@ -21,7 +21,7 @@
     "node-fetch": "^2.2.0",
     "pagarme": "^3.8.0",
     "pg": "*",
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.5.0"
   },
   "license": "MIT"
 }
